@@ -1,4 +1,4 @@
-Statistical Business & Customer Churn Analysis
+## Statistical Business & Customer Churn Analysis
 
 A complete end-to-end statistical analysis project using Python, focused on business sales performance and customer churn analytics. This project demonstrates practical applications of statistics, data analysis, visualization, hypothesis testing, and regression modeling using real-world datasets.
 
